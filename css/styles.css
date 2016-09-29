@@ -1,0 +1,51 @@
+body{
+	background-image: url("../images/quilt.png");
+/* 	background-color: gray; */
+}
+#cart{
+	font-variant: 
+	background-color: orange;
+	font-size: 40px;
+	opacity: 0.8;
+}
+#bottomDiv{
+	border-style: double;
+	border-radius: 12px;
+    border-top: thick double #ff0000;
+    border-bottom: thick double #ff0000;
+    max-width: 1900px;
+    margin: auto;
+    padding: 20px;
+
+}
+#footer{
+	background-color: red;
+	font-size: 28px;
+	float: right;
+	margin-top: 10px;
+	border-bottom: solid;
+}
+.image{
+	float: left;
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    justify-content: space-around;
+}
+
+
+.name{
+    font-family: "Helvetica Neue", fantasy;
+	font-size: 35px;
+    position: relative;
+}
+.price{
+	/* float: right; */
+	font-size: 25px;
+	margin-left: 95%;
+	padding-right: 30px;
+
+}
+.description{
+	font-size: 20px;
+}
